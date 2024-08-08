@@ -179,6 +179,14 @@ body {
     margin-top: 0.3rem;
 }
 
+.password-remember {
+    text-decoration: none;
+}
+
+.password-remember:hover {
+    text-decoration: underline;
+}
+
 
 
 @media screen and (max-width: 1330px) {
